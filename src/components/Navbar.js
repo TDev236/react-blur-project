@@ -12,6 +12,7 @@ function Navbar() {
                     <span></span>
                     <span></span>
                     <span></span>
+                    <span></span>
                 </Hamburger>
                 <Menu isOpen={isOpen}>
                     <LinkWrapper>
@@ -49,7 +50,7 @@ const Container = styled.div`
     padding: 2rem;
 
     svg {
-        height: 1.4rem;
+        height: 1.3rem;
         cursor: pointer;
     }
 
