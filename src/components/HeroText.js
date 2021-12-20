@@ -5,10 +5,11 @@ const HeroText = () => {
     return (
         <Container>
             <h5>Educacion Online para Todas las edades</h5>
-            <h1>Aprender</h1>
-            <h1>En Cualquier</h1>
-            <h1>Lugar</h1>
-            <h1>& Tiempo</h1>
+            <h1>Te</h1>
+            <h1>Amo</h1>
+            <h1>Emma</h1>
+            <h1>Mori</h1>
+            <h1>Te Amo Emma Mori</h1>
             <BtnContainer>
                 <button className="readmore">Mas Info</button>
                 <button>7 dias Gratis de Prueba</button>
