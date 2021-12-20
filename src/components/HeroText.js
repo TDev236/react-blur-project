@@ -9,7 +9,6 @@ const HeroText = () => {
             <h1>Amo</h1>
             <h1>Emma</h1>
             <h1>Mori</h1>
-            <h1>Te Amo Emma Mori</h1>
             <BtnContainer>
                 <button className="readmore">Mas Info</button>
                 <button>7 dias Gratis de Prueba</button>
