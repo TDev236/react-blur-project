@@ -20,28 +20,28 @@ const HeroText = () => {
 const BtnContainer = styled.div `
     margin-top: 2rem;
     button {
-        background: #81d1ff;
+        background: #8192ff;
         border: none;
         padding: 0.9rem 1.1rem;
         color: #fff;
         border-radius: 1rem;
-        box-shadow: 0px 13px 24px -7px #81d1ff;
+        box-shadow: 0px 13px 24px -7px #8192ff;
         transition: all 0.3s ease-in-out;
         margin: 0.5rem;
         font-size: 0.8rem;
         cursor: pointer;
         &:hover {
-            box-shadow: 0px 17px 16px -11px #81d1ff;
+            box-shadow: 0px 17px 16px -11px #8192ff;
             transform: translateY(-5px);
         }
     }
     .readmore {
-        color: #81d1ff;
+        color: #8192ff;
         background: transparent;
-        border: 3px solid #81d1ff;
+        border: 3px solid #8192ff;
 
         &:hover {
-            box-shadow: 0px 17px 16px -11px #81d1ff;
+            box-shadow: 0px 17px 16px -11px #8192ff;
             transform: translateY(-5px);
         }
     }
